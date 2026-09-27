@@ -44,9 +44,9 @@ Familiar with **Python, Java, and Kotlin**, with foundational knowledge and hand
 
 **Areas I'm exploring:** `Web Security` · `API Security` · `Web Penetration Testing` · `Linux` · `Android Security` · `OWASP`
 <p>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/> 
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
@@ -62,17 +62,12 @@ Familiar with **Python, Java, and Kotlin**, with foundational knowledge and hand
 </tr>
 </table>
 
-</div>
 > Exploring Linux environments and learning how modern applications work from both the development and security perspectives.
 
  ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://hackthebox.eu/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
+<a href="https://hackthebox.eu/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
   <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212121?style=flat-square&logo=tryhackme&logoColor=white"/></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=7C3AED&center=false&vCenter=true&width=700&lines=Advanced+Next.js;Full+Stack+Development;Web+Security;Penetration+Testing;Linux+%26+Security+Tools" />
 
 ## 🎯 Goals
 
@@ -81,10 +76,7 @@ Familiar with **Python, Java, and Kotlin**, with foundational knowledge and hand
 * 🔐 Develop strong **web and application security** skills
 * 🐧 Become more proficient with Linux
 * 🧠 Improve problem-solving and system-design skills
-* 🌍 Build and contribute to real-world projects
-* 📚 Never stop learning
 ---
-
 
 <p align="center">
   <b> <img src="https://img.icons8.com/fluency/48/source-code.png" width="15"> Build it. <img src="https://img.icons8.com/fluency/48/cyber-security.png" width="15"> Secure it.  <img src="https://img.icons8.com/fluency/48/rocket.png" width="15"> Ship it.</b>
