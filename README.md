@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="GitHub Profile Banner" />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=CODE+%E2%80%A2+BUILD+%E2%80%A2+SECURE;WEB+%7C+ANDROID+%7C+CYBERSECURITY;CREATE+%7C+LEARN+%7C+SECURE;" />
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hello Friend, I'm Mr </ Dev>
@@ -28,7 +32,18 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## <h2><img src="https://img.icons8.com/fluency/48/programming.png" width="20"> Programming & <img src="https://img.icons8.com/fluency/48/android-studio.png" width="20"> Android Development</h2>
+<h2><img src="https://img.icons8.com/fluency/48/design.png" width="20"> Design & Creative Tools</h2>
+
+🎨 Familiar with design and creative tools for **UI Design, Graphics, and Motion**.
+
+<p>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" width="30" alt="Adobe Photoshop" />
+  <img src="https://img.icons8.com/color/48/adobe-after-effects.png" width="30" alt="Adobe After Effects" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" width="30" alt="Figma" />
+</p>
+
+
+<h2><img src="https://img.icons8.com/fluency/48/programming.png" width="20"> Programming Language & <img src="https://img.icons8.com/fluency/48/android-studio.png" width="20"> Android Development</h2>
 
 Familiar with **Python, Java, and Kotlin**, with foundational knowledge and hands-on experience. Also experienced with **Android development using Android Studio**.
 
