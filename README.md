@@ -79,10 +79,17 @@ Familiar with **Python, Java, and Kotlin**, with foundational knowledge and hand
 
 > Exploring Linux environments and learning how modern applications work from both the development and security perspectives.
 
- ## 🔗 Connect With Me
+<br/>
 
+ ## 🔗 Connect With Me <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="20">
+ <div>
+  <p align="left">
+    <a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkdin" height="30" width="40" /></a>
+    <a href="https://discord.com/](https://discord.com/users/1551199266444410904" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="30" width="40" /></a>
 <a href="https://hackthebox.eu/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
   <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212121?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+</p> </div>
+
 
 ## 🎯 Goals
 
